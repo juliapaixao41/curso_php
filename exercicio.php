@@ -18,9 +18,6 @@
     </nav>
     <main class="principal"> 
         <div class="conteudo">
-           <?php
-            include('teste/teste.php')
-           ?>
         </div>
     </main>
     <footer class="rodape">
