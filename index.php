@@ -15,11 +15,13 @@
         <div class="conteudo">
             <nav class="modulos">
                 <div class="modulo verde">
-                    <h3>Módulo 01 </h3>
+                    <h3>Módulo 01 - Básico </h3>
                     <ul>
-                        <li><a href="exercicio.php">Exercicio A</a></li>
-                        <li><a href="#">Exercicio B</a></li>
-                        <li><a href="#">Exercicio C</a></li>
+                        <li><a href="exercicio.php?dir=basico&file=ola"> Exercicio A - Integração  PHP</a></li>
+                        <li><a href="exercicio.php?dir=basico&file=html">Exercicio B - Integração  HTML</a></li>
+                        <li><a href="exercicio.php?dir=basico&file=css"> Exercicio C - Integração  CSS</a></li>
+                        <li><a href="exercicio.php?dir=basico&file=comentario"> Exercicio D - Comentários  PHP</a></li>
+                        <li><a href="exercicio.php?dir=basico&file=desafio"> Desafio do Módulo</a></li>
                     </ul>
                 </div>
                 <div class="modulo vermelho">
